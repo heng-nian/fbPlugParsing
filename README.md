@@ -1,0 +1,2 @@
+# fbPlugParsing
+一个基于fastbuilder的v8版本执行的我的世界命令解析的插件
